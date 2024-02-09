@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ping-weather</string>
+    <string name="title_activity_choose_city">ChooseCityActivity</string>
+</resources>
